@@ -38,3 +38,4 @@ reports/
 target/
 .vscode/
 **/.idea/
+venv
